@@ -1,5 +1,6 @@
 # MMM-chuck-joke
 A `Chuck Norris joke generator` for <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a> module.
+Currently there are ~600 jokes available.
 
 ## Using the module
 Add `MMM-chuck-joke` module to the `modules` array in the `config/config.js` file:
