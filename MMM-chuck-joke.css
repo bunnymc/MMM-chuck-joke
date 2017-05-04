@@ -1,0 +1,14 @@
+.left {
+  /*text-align: left;*/
+  width: 48%;
+}
+
+.right {
+  /*text-align: right;*/
+  width: 48%;
+}
+
+.center {
+  /*text-align: center;*/
+  width: 94%;
+}
