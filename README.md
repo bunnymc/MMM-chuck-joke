@@ -17,5 +17,8 @@ modules: [
 ]
 ````
 
+## Screenshot
+![](preview.png?raw=true)
+
 ## Copyright
 Copyright (C) 2017 by Christian Handorf with [MIT License](LICENSE.md).
